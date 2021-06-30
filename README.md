@@ -1,7 +1,7 @@
 # Interfaces - Hardware & Software communication
 This repository store the related information to the course INTERFACES in the Universidad del Valle, this course is focus on develop a software application that interact with the hardware itself.
 
-Designe by: Kevin Jofroit Joven Noriega.
+### Designe by: Kevin Jofroit Joven Noriega.
 
 This application was designed using Java in a Eclipse enviorement.
 The programming of the hardware was using the Arduino MEGA.
